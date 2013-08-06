@@ -26,4 +26,4 @@ print("Benoetigte Zeit fuer Loesung mit NumPy:")
 print(t_numpy)
 
 print("Loesung mit NumPy " + str(t_trad * 100 / t_numpy) + " % schneller")
-raw_input("press some key!!")
+raw_input("press some key!!!")
